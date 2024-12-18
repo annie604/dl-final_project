@@ -1,4 +1,3 @@
-```markdown
 # Discord AI Bot
 
 This is a powerful Discord bot that integrates with Google Gemini AI to offer advanced functionalities such as image, video, and audio analysis, PDF summarization, and real-time chat.
